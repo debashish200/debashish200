@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="GitHub Banner" width="100%">
+  <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="GitHub Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm R. Debashish Das</h1>
